@@ -20,3 +20,7 @@ docker-gin/backend/*.sqlite
 docker-gin/backend/*.sqlite3
 docker-gin/frontend/node_modules/
 docker-gin/frontend/dist/
+
+miniapp/node_modules/
+miniapp/dist/
+miniapp/unpackage/
