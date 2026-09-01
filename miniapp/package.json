@@ -1,0 +1,21 @@
+{
+  "name": "ai-wordbook-miniapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI 智能单词本小程序端",
+  "scripts": {
+    "dev:h5": "uni",
+    "dev:mp-weixin": "uni build -p mp-weixin --watch",
+    "build:mp-weixin": "uni build -p mp-weixin"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-alpha-5020520260829001",
+    "@dcloudio/uni-h5": "3.0.0-alpha-5020520260829001",
+    "@dcloudio/uni-mp-weixin": "3.0.0-alpha-5020520260829001",
+    "vue": "3.4.21"
+  },
+  "devDependencies": {
+    "@dcloudio/vite-plugin-uni": "3.0.0-alpha-5020520260829001",
+    "vite": "5.2.8"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/register/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "🐣 AI 智能单词本"
+      }
+    },
+    {
+      "path": "pages/words/words",
+      "style": {
+        "navigationBarTitleText": "🧸 我的单词本",
+        "enablePullDownRefresh": true
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff1f6",
+    "backgroundColor": "#fff1f6"
+  },
+  "tabBar": {
+    "color": "#b3abc4",
+    "selectedColor": "#7c5cf0",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "🔍 查询"
+      },
+      {
+        "pagePath": "pages/words/words",
+        "text": "🧸 单词本"
+      }
+    ]
+  }
+}
