@@ -26,3 +26,6 @@
 - `docs/`：数据库与接口说明
 - `docker-compose.yml`：Docker 编排配置
 
+## 远程仓库
+
+- `git@github.com:xcscffttmx/AIwords.git`

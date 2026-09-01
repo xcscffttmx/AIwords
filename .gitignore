@@ -1,0 +1,13 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.DS_Store
+docker-gin/.env
+docker-gin/backend/.env
+docker-gin/backend/*.db
+docker-gin/backend/*.sqlite
+docker-gin/backend/*.sqlite3
+docker-gin/frontend/node_modules/
+docker-gin/frontend/dist/
